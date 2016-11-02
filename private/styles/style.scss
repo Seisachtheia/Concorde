@@ -20,3 +20,11 @@ $color-2: white;
 
 // Your SCSS goes below here
 
+.concorde {
+    height:700px;
+    background-image: url('../images/concorde.jpg') ; 
+    text-align: left;
+    margin-bottom: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
